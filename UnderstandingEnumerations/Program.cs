@@ -37,6 +37,8 @@ namespace UnderstandingEnumerations
                 }
             }
 
+            else Console.WriteLine("Input does not compute");
+
             Console.ReadLine();
         }
     }
